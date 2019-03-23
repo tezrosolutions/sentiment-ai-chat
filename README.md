@@ -1,6 +1,6 @@
 # Sentiment Analysis in Real Time Chat
 
-Uses the emotional AI or sentiment analysis to identify the bi-polar sentiments of an arbitary text message.
+Uses the emotional AI or sentiment analysis to identify the bi-polar sentiments of an arbitary chat message.
 
 ## Setup
 
@@ -13,7 +13,7 @@ Uses yarn as package manager.
 The chat will be available at http://localhost:3000
 
 
-Make sure to create a .env file with following configuration
+Signup on Pusher.com and make sure to create a .env file with following configuration
 
 ```
 PUSHER_APP_ID=YOUR_APP_ID
